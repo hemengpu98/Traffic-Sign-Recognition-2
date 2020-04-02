@@ -1,6 +1,6 @@
 # Traffic-Sign-Recognition via CNN 
 
-This project involves three CNN architectures to solve a problem of traffic sign recongnition.
+This project involves three CNN architectures to solve the problem of traffic sign recognition.
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ The instructions below will give you a guideline on how to uses the code for you
 
 ### Prerequisites
 
-Run the code on a Python3-based platform, such as Colab, Jupyter Notebook and Pycharm.
+Run the code on a Python3-based platform, such as Colab, Jupyter Notebook, and Pycharm.
 
 The required packages are listed as follows:
 
@@ -26,6 +26,10 @@ sklearn
 ## Authors
 
 * **Da WANG** - *Initial work* - [Profile Link](https://github.com/lDa-WANGl)
+
+## Acknowledgement
+
+I would like to especially thank Professor Scott Scanner, who heartily gives us valuable advice on how to initialize a research topic and what should be done for a good project. This project is completed in alinement with the suggestions and requirements of a project.
 
 ## Reference
 
