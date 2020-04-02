@@ -1,88 +1,34 @@
-# Project Title
+# Traffic-Sign-Recognition via CNN 
 
-One Paragraph of project description goes here
+This project involves three CNN architectures to solve a problem of traffic sign recongnition.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+The instructions below will give you a guideline on how to uses the code for your development and testing purposes.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Run the code on a Python3-based platform, such as Colab, Jupyter Notebook and Pycharm
+The required packages are listed as follows:
 
 ```
-Give examples
+Python3 built-in modules: os, glob, random, time
+tensorflow - Version 2.2.0
+numpy
+pandas
+matplotlib.pyplot
+skimage
+PIL
+sklearn
 ```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Da WANG** - *Initial work* - [PurpleBooth](https://github.com/lDa-WANGl)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+## Reference
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Ding, X., Guo, Y., Ding, G., & Han, J. (2019). ACNet: Strengthening the Kernel Skeletons for Powerful CNN via Asymmetric Convolution Blocks. 2019 IEEE/CVF International Conference on Computer Vision (ICCV). doi: 10.1109/iccv.2019.00200
+* Sermanet, P., & Lecun, Y. (2011). Traffic sign recognition with multi-scale Convolutional Networks. The 2011 International Joint Conference on Neural Networks. doi: 10.1109/ijcnn.2011.6033589
+* Lecun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11), 2278–2324. doi: 10.1109/5.726791
 
