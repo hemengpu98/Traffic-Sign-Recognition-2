@@ -8,7 +8,7 @@ The instructions below will give you a guideline on how to uses the code for you
 
 ### Prerequisites
 
-Run the code on a Python3-based platform, such as Colab, Jupyter Notebook and Pycharm
+Run the code on a Python3-based platform, such as Colab, Jupyter Notebook and Pycharm.
 The required packages are listed as follows:
 
 ```
