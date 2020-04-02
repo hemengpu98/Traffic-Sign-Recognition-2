@@ -24,7 +24,7 @@ sklearn
 
 ## Authors
 
-* **Da WANG** - *Initial work* - [PurpleBooth](https://github.com/lDa-WANGl)
+* **Da WANG** - *Initial work* - [Profile Link](https://github.com/lDa-WANGl)
 
 ## Reference
 
